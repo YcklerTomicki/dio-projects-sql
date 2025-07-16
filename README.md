@@ -1,2 +1,11 @@
-# dio-projects-sql
-Esse repository tem como principal função salvar as atividades feitas dentro do curso.
+# E-Commerce
+Objetivo:
+Refine o modelo apresentado acrescentando os seguintes pontos:
+
+- `Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações.`
+- `Pagamento – Pode ter cadastrado mais de uma forma de pagamento.`
+- `Entrega – Possui status e código de rastreio.`
+
+# Meu Projeto
+
+![alt](https://github.com/YcklerTomicki/dio-projects-sql/blob/main/E-commerce.png)
